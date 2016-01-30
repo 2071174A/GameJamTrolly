@@ -3,7 +3,7 @@
 #ifndef __GAMEJAMTROLLY_H__
 #define __GAMEJAMTROLLY_H__
 
-#include "EngineMinimal.h"
+#include "Engine.h"
 
 
 #endif
